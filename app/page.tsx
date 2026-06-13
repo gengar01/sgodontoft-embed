@@ -132,7 +132,7 @@ export default function DashboardEmbed() {
 
       {/* ── IFRAME — GAS App (sin cambios) ───────────────────── */}
       <iframe
-        src={GAS_URL}
+        src="https://script.google.com/macros/s/AKfycbwExFzCMHdKlpqqvy5hP5r07vATa9BP0ZZB_4ylOkeA6oLCjhkR_CgNM5VCpIAVIavn/exec"
         className="w-full h-full border-0"
         style={{
           position: 'fixed',
